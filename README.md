@@ -1,3 +1,3 @@
-# target_test_RP
+# Target Sistemas
 
-Coloquei as questões 1, 3 e 4 neste repositório também por via das dúvidas
+Resposta das questões para o processo seletivo da Target Sistemas. Por simplicidade, a linguagem escolhida foi python.
